@@ -8,6 +8,7 @@ This repository serves to document my learning of using Javascript in a webpage 
 
 ## Getting Started
 Click on link: https://tingzhouu.github.com/Dicee
+Once page is loaded, refresh the page to start rolling!
 
 
 ## Authors
